@@ -1,0 +1,88 @@
+[
+    {
+        "OgrenciNo":134234,
+        "Ad":"Omer",
+        "Soyad":"Bayram",
+        "DoğumTarihi":"12.02.2000",
+        "Bolumu":"Bilgisayar",
+        "Sinifi":"A",
+        "NotOrtalamasi":86
+    },
+    
+    {
+        "OgrenciNo":86467,
+        "Ad":"Necati",
+        "Soyad":"Şaşmaz",
+        "DoğumTarihi":"12.02.2000",
+        "Bolumu":"Bilgisayar",
+        "Sinifi":"B",
+        "NotOrtalamasi":73
+    },
+    
+    {
+        "OgrenciNo":65635,
+        "Ad":"Emre
+        "Soyad":"Sahin
+        "DoğumTarihi":"12.02.2000",
+        "Bolumu":"Bilgisayar",
+        "Sinifi":"C",
+        "NotOrtalamasi":98
+    },
+    
+    {
+        "OgrenciNo":76577,
+        "Ad":"Omer",
+        "Soyad":"Omer",
+        "DoğumTarihi":"12.02.2000",
+        "Bolumu":"Bilgisayar",
+        "Sinifi":"A",
+        "NotOrtalamasi":43
+    },
+    
+    {
+        "OgrenciNo":43243,
+        "Ad":"Ahmet",
+        "Soyad":"Şahin",
+        "DoğumTarihi":"12.02.2000",
+        "Bolumu":"Bilgisayar",
+        "Sinifi":"A",
+        "NotOrtalamasi":65
+    },
+    
+    {
+        "OgrenciNo":54324,
+        "Ad":"Omer",
+        "Soyad":"Omer",
+        "DoğumTarihi":"12.02.2000",
+        "Bolumu":"Bilgisayar",
+        "Sinifi":"A",
+        "NotOrtalamasi":83
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+]

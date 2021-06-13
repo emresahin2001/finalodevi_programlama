@@ -1,0 +1,86 @@
+[
+    {
+        "KimlikNo":4234,
+        "Ad":"Emre",
+        "Soyad":"Şahin",
+        "DoğumTarihi":"12.02.2000",
+        "Departman":"Bilgisayar",
+        "Gorevi":"A",
+        "BaslamaTarihi":"13.03.2000"
+    },
+    
+    
+    {
+        "KimlikNo":432423,
+        "Ad":"Ali",
+        "Soyad":"Öz",
+        "DoğumTarihi":"12.02.2000",
+        "Departman":"Bilgisayar",
+        "Gorevi":"A",
+        "BaslamaTarihi":"13.03.2000"
+    },
+    
+    
+    {
+        "KimlikNo":4324423,
+        "Ad":"Omer",
+        "Soyad":"Şahin",
+        "DoğumTarihi":"12.02.2000",
+        "Departman":"Bilgisayar",
+        "Gorevi":"A",
+        "BaslamaTarihi":"13.03.2000"
+    },
+    
+    
+    
+    {
+        "KimlikNo":42342,
+        "Ad":"Ahmet",
+        "Soyad":"Öz",
+        "DoğumTarihi":"12.02.2000",
+        "Departman":"Bilgisayar",
+        "Gorevi":"A",
+        "BaslamaTarihi":"13.03.2000"
+    },
+    
+    
+    
+    
+    {
+        "KimlikNo":432423,
+        "Ad":"Bora",
+        "Soyad":"Öztezcan",
+        "DoğumTarihi":"12.02.2000",
+        "Departman":"Bilgisayar",
+        "Gorevi":"A",
+        "BaslamaTarihi":"13.03.2000"
+    },
+    
+    
+    
+    
+    {
+        "KimlikNo":43242,
+        "Ad":"Ahmet",
+        "Soyad":"Pınar",
+        "DoğumTarihi":"12.02.2000",
+        "Departman":"Bilgisayar",
+        "Gorevi":"A",
+        "BaslamaTarihi":"13.03.2000"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+]

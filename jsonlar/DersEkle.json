@@ -1,0 +1,51 @@
+[
+     {
+        "DersNo":4234,
+        "Ad":"Omer",
+        "Acıklama":"Şaşmaz",
+        "OgretimGorevlisi":1,
+      },
+    
+    {
+        "DersNo":42342,
+        "Ad":"Ahmet",
+        "Acıklama":"Şahin",
+        "OgretimGorevlisi":1,
+      },
+    
+    {
+        "DersNo":654645,
+        "Ad":"Necati",
+        "Acıklama":"Akçat",
+        "OgretimGorevlisi":"12.02.2000",
+      },
+    
+    {
+        "DersNo":64564,
+        "Ad":"sakine",
+        "Acıklama":"ömür",
+        "OgretimGorevlisi":0,
+      },
+    
+    {
+        "DersNo":43535,
+        "Ad":"Ali",
+        "Acıklama":"atagun",
+        "OgretimGorevlisi":1,
+      },
+    
+    {
+        "DersNo":3123,
+        "Ad":"Ali",
+        "Acıklama":"Akçat",
+        "OgretimGorevlisi":0,
+      },
+    
+    {
+        "DersNo":6456,
+        "Ad":"Ahmet",
+        "Acıklama":"Öz",
+        "OgretimGorevlisi":0,
+      }
+    
+]

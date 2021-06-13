@@ -1,0 +1,55 @@
+[
+    {
+        "KimlikNo":132312,
+        "Ad":"Şahin",
+        "Soyad":"Omer",
+        "DoğumTarihi":"12.02.2000",
+        "Gorevi":1,
+        
+    },
+    
+     {
+        "KimlikNo":432534,
+        "Ad":"Ali",
+        "Soyad":"Cömert",
+        "DoğumTarihi":"12.02.2000",
+        "Gorevi":0,
+        
+    },
+    
+    
+     {
+        "KimlikNo":32131,
+        "Ad":"Necati",
+        "Soyad":"Akçay",
+        "DoğumTarihi":"12.02.2000",
+        "Gorevi":0,
+        
+    },
+    
+    
+    
+     {
+        "KimlikNo":534534,
+        "Ad":"Omer",
+        "Soyad":"Sever",
+        "DoğumTarihi":"12.02.2000",
+        "Gorevi":2,
+        
+    },
+    
+    
+     {
+        "KimlikNo":423423,
+        "Ad":"Emre",
+        "Soyad":"Şahin",
+        "DoğumTarihi":"12.02.2000",
+        "Gorevi":1,
+        
+    }
+    
+    
+    
+    
+    
+]
